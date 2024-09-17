@@ -17,6 +17,6 @@ createRoot(document.getElementById('root')).render(
   <StrictMode>
     <Titulo nome="promo" cor="vermelho"/>
     <Itens lista_produtos={lista}/>
-    
+    <Titulo nome="saudável" cor="verde"/>
   </StrictMode>,
 )
